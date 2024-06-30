@@ -1,0 +1,38 @@
+{
+    "Party": {
+        "0": "Samajwadi Party - SP",
+        "1": "Bharatiya Janata Party - BJP",
+        "2": "Indian National Congress - INC",
+        "3": "Rashtriya Lok Dal - RLD",
+        "4": "Aazad Samaj Party (Kanshi Ram) - ASPKR",
+        "5": "Apna Dal (Soneylal) - ADAL",
+        "6": "Total"
+    },
+    "Won": {
+        "0": 37,
+        "1": 33,
+        "2": 6,
+        "3": 2,
+        "4": 1,
+        "5": 1,
+        "6": 80
+    },
+    "Leading": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0
+    },
+    "Total": {
+        "0": 37,
+        "1": 33,
+        "2": 6,
+        "3": 2,
+        "4": 1,
+        "5": 1,
+        "6": 80
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "Party": {
+        "0": "Indian National Congress - INC",
+        "1": "Bharatiya Janata Party - BJP",
+        "2": "Shiv Sena (Uddhav Balasaheb Thackrey) - SHSUBT",
+        "3": "Nationalist Congress Party \u2013 Sharadchandra Pawar - NCPSP",
+        "4": "Shiv Sena - SHS",
+        "5": "Nationalist Congress Party - NCP",
+        "6": "Independent - IND",
+        "7": "Total"
+    },
+    "Won": {
+        "0": 13,
+        "1": 9,
+        "2": 9,
+        "3": 8,
+        "4": 7,
+        "5": 1,
+        "6": 1,
+        "7": 48
+    },
+    "Leading": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0
+    },
+    "Total": {
+        "0": 13,
+        "1": 9,
+        "2": 9,
+        "3": 8,
+        "4": 7,
+        "5": 1,
+        "6": 1,
+        "7": 48
+    }
+}

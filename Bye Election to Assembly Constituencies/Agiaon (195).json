@@ -1,0 +1,98 @@
+{
+    "Table": {
+        "S.N.": {
+            "0": 1.0,
+            "1": 2.0,
+            "2": 3.0,
+            "3": 4.0,
+            "4": 5.0,
+            "5": 6.0,
+            "6": 7.0,
+            "7": 8.0,
+            "8": 9.0,
+            "9": 10.0
+        },
+        "Candidate": {
+            "0": "PRABHUNATH PRASAD",
+            "1": "SHIV PRAKASH RANJAN",
+            "2": "UPENDRA KUMAR S/O - CHANDESHWAR RAM",
+            "3": "UPENDRA KUMAR S/O- VAIJNATH RAM",
+            "4": "PRADEEP KUMAR",
+            "5": "BHIKHARI RAM",
+            "6": "VIJAY MEHRA",
+            "7": "SARASWATI DEVI",
+            "8": "SONU KUMAR",
+            "9": "NOTA"
+        },
+        "Party": {
+            "0": "Janata Dal (United)",
+            "1": "Communist Party of India (Marxist-Leninist) (Liberation)",
+            "2": "Independent",
+            "3": "Independent",
+            "4": "Independent",
+            "5": "Independent",
+            "6": "Independent",
+            "7": "Independent",
+            "8": "Independent",
+            "9": "None of the Above"
+        },
+        "EVM Votes": {
+            "0": 43334,
+            "1": 73191,
+            "2": 6414,
+            "3": 1380,
+            "4": 1296,
+            "5": 1044,
+            "6": 1493,
+            "7": 1810,
+            "8": 3315,
+            "9": 3909
+        },
+        "Postal Votes": {
+            "0": 291,
+            "1": 269,
+            "2": 4,
+            "3": 3,
+            "4": 8,
+            "5": 4,
+            "6": 2,
+            "7": 11,
+            "8": 7,
+            "9": 22
+        },
+        "Total Votes": {
+            "0": 43625,
+            "1": 73460,
+            "2": 6418,
+            "3": 1383,
+            "4": 1304,
+            "5": 1048,
+            "6": 1495,
+            "7": 1821,
+            "8": 3322,
+            "9": 3931
+        },
+        "% of Votes": {
+            "0": 31.66,
+            "1": 53.31,
+            "2": 4.66,
+            "3": 1.0,
+            "4": 0.95,
+            "5": 0.76,
+            "6": 1.08,
+            "7": 1.32,
+            "8": 2.41,
+            "9": 2.85
+        }
+    },
+    "Total": {
+        "Candidate": "Total",
+        "EVM Votes": 137186,
+        "Postal Votes": 621,
+        "Total Votes": 137807
+    },
+    "Name": "SHIV PRAKASH RANJAN",
+    "State": "Bihar",
+    "Title": "Agiaon (195)",
+    "By": "Communist Party of India  (Marxist-Leninist)  (Liberation)"
+}

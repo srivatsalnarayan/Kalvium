@@ -1,0 +1,30 @@
+{
+    "Party": {
+        "0": "Telugu Desam - TDP",
+        "1": "Yuvajana Sramika Rythu Congress Party - YSRCP",
+        "2": "Bharatiya Janata Party - BJP",
+        "3": "Janasena Party - JnP",
+        "4": "Total"
+    },
+    "Won": {
+        "0": 16,
+        "1": 4,
+        "2": 3,
+        "3": 2,
+        "4": 25
+    },
+    "Leading": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+    },
+    "Total": {
+        "0": 16,
+        "1": 4,
+        "2": 3,
+        "3": 2,
+        "4": 25
+    }
+}

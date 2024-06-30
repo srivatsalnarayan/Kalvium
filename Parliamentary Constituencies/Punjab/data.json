@@ -1,0 +1,30 @@
+{
+    "Party": {
+        "0": "Indian National Congress - INC",
+        "1": "Aam Aadmi Party - AAAP",
+        "2": "Shiromani Akali Dal - SAD",
+        "3": "Independent - IND",
+        "4": "Total"
+    },
+    "Won": {
+        "0": 7,
+        "1": 3,
+        "2": 1,
+        "3": 2,
+        "4": 13
+    },
+    "Leading": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+    },
+    "Total": {
+        "0": 7,
+        "1": 3,
+        "2": 1,
+        "3": 2,
+        "4": 13
+    }
+}

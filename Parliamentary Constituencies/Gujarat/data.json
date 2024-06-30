@@ -1,0 +1,22 @@
+{
+    "Party": {
+        "0": "Bharatiya Janata Party - BJP",
+        "1": "Indian National Congress - INC",
+        "2": "Total"
+    },
+    "Won": {
+        "0": 25,
+        "1": 1,
+        "2": 26
+    },
+    "Leading": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+    },
+    "Total": {
+        "0": 25,
+        "1": 1,
+        "2": 26
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "Party": {
+        "0": "Dravida Munnetra Kazhagam - DMK",
+        "1": "Indian National Congress - INC",
+        "2": "Viduthalai Chiruthaigal Katchi - VCK",
+        "3": "Communist Party of India - CPI",
+        "4": "Communist Party of India (Marxist) - CPI(M)",
+        "5": "Marumalarchi Dravida Munnetra Kazhagam - MDMK",
+        "6": "Indian Union Muslim League - IUML",
+        "7": "Total"
+    },
+    "Won": {
+        "0": 22,
+        "1": 9,
+        "2": 2,
+        "3": 2,
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 39
+    },
+    "Leading": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0
+    },
+    "Total": {
+        "0": 22,
+        "1": 9,
+        "2": 2,
+        "3": 2,
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 39
+    }
+}
